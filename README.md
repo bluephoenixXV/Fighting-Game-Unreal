@@ -39,6 +39,6 @@ in this repository, you will find the source file and exe file (64 bit version)
 
 # Video
 
-Uploaded in Youtube (Soon)
+[Uploaded in Youtube](https://youtu.be/UEJssVkppf4)
 
 
