@@ -35,7 +35,8 @@ Receiving the damage was implemented in the enemy character, to show how it actu
 
 # Files 
 
-in this repository, you will find the source file and exe file (64 bit version)
+in this repository, you will find the source file.
+EXE file can be download from [here] (https://drive.google.com/open?id=1nZawR_GuoF6fxN48rSm7d-qvF2MiIkW_) or [here] (https://drive.google.com/open?id=1veJz-0ZV9e3FnckEjZmeeFpFRaIOlknS)
 
 # Video
 
